@@ -1,0 +1,5 @@
+{
+  "name": "Olympiad AI Prep Tutor",
+  "description": "An AI-powered tutor to help students prepare for Math, Physics, Chemistry, or Informatics Olympiads. It offers personalized questions, solution evaluation, mistake explanations, and progress tracking.",
+  "requestFramePermissions": []
+}
